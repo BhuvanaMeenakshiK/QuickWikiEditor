@@ -1,0 +1,22 @@
+{
+"manifest_version": 2,
+"name" : "QuickwikiEditor",
+"description" : "QuickwikiEditor is Firefox Add-on which helps Wikipedia Editors to edit (correct spelling mistakes) easily without visiting to edit pages.",
+
+"homepage_url": "https://github.com/iamVP7/QuickwikiEditor",
+  "version": "1.0",
+
+"icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "permissions" : [
+	"contextMenus",
+  "tabs",
+  "*://developer.mozilla.org/*",
+  "*://en.wikipedia.org/*"
+	],
+"background": {
+    "scripts": ["background.js"]
+  }
+}
