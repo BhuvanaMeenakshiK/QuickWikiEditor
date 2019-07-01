@@ -7,4 +7,4 @@ The working demo of this Extension is available in wikimedia created by @tha-uzh
 
 You can visit [wikimedia page](https://commons.wikimedia.org/wiki/File:Tutorial-tamil-firefox-addon-QuickWikiEditor-usage.webm) to watch the demo. 
 
-And this project is mentored by @tshrinivasan
+And this project is mentored by @tshrinivasan and iamVP7
