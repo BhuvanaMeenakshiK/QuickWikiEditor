@@ -61,7 +61,7 @@ function onExecuted(result) {
                 if(domainIndex == -1){
                         showUnSupportedDomain();
                 }else{
-                        // Same full URL https://en.wikipedia.org/wiki/User:Iamvp7
+                        // Same full URL https://en.wikipedia.org/wiki/User:Bhuvana_Meenakshi
 
                         // output of domainNameWithoutProto will be like 
                         //wikipedia.org/wiki/Domain_name#Domain_name_space
