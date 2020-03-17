@@ -13,7 +13,8 @@
   "permissions" : [
 	"contextMenus",
   "tabs",
-   "*://en.wikipedia.org/*"
+   "*://en.wikipedia.org/*",
+	  "*://ta.wikipedia.org/*"
 	],
 "background": {
     "scripts": ["background.js"]
